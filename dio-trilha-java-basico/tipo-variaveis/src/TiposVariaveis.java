@@ -11,7 +11,9 @@ public class TiposVariaveis {
         
         final int numero = 5;
         
-        
+        System.out.println(meuNome);
+        System.out.println(numeroCurto2);
+        System.out.println(numero);
         
     }
 }
