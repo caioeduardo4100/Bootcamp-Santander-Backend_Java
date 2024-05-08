@@ -8,6 +8,7 @@ public class MinhaClasse {
         System.out.println(nomeCompleto);
 
     }
+    
     public static String nomeCompleto(String primeiroNome, String segundoNome) {
         return "Resultado do primeiro método: " + primeiroNome.concat(" ").concat(segundoNome);
     }
