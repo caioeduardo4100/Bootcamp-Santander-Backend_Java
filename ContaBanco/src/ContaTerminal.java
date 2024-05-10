@@ -7,10 +7,10 @@ public class ContaTerminal {
         System.out.print("Informe o seu nome: ");
         String nome = entrada.nextLine();
 
-        System.out.print("Digite o número da agência: ");
+        System.out.print("Informe a sua agência: ");
         String agencia = entrada.nextLine();
 
-        System.out.print("Digite o seu número: ");
+        System.out.print("Digite o número da sua agência: ");
         int numero = entrada.nextInt();
 
         System.out.print("Informe seu saldo atual: ");
